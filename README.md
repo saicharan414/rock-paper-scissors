@@ -42,6 +42,19 @@ The computer randomly selects Rock, Paper, or Scissors, and JavaScript checks th
 The game displays the user's choice, computer's choice, game result, and scores on the webpage.
 
 ## Project Structure
+Rock Paper Scissors
+
+Choose your option:
+
+[ 🪨 Rock ] [ 📄 Paper ] [ ✂️ Scissors ]
+
+You: rock
+Computer: scissors
+
+You Win!
+
+Your Score: 1
+Computer Score: 0
 
 ```text
 rock-paper-scissors/
